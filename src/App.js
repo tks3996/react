@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        Hey , why are you worried????
+        These files are form react-app branch.
       </header>
     </div>
   );
